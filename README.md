@@ -32,7 +32,7 @@ app/
 ```bash
 # Clone the repo
 git clone https://github.com/Betty-WC11/Python-FastAPI-QuizAPI.git
-cd Quiz-API
+cd Python-FastAPI-QuizAPI
 
 # Create virtual environment
 python -m venv venv
